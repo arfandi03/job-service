@@ -1,0 +1,7 @@
+/node_modules
+/vendor
+/.idea
+.idea/
+/.env
+src/database.sqlite
+/public/bower_components
